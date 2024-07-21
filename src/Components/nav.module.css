@@ -1,0 +1,49 @@
+.logoimg{
+    height: 50px;
+    width: 60px;
+}
+
+.link{
+    text-decoration: none;
+    font-size: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* margin: 0 30px; */
+    color: whitesmoke;
+    font-style: oblique;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 150px;
+    text-align: center;
+    border: 2px solid transparent;
+    transition: all 1s linear;
+}
+
+.link:hover{
+    /* border: 2px solid maroon; */
+         font-weight: 900;
+        border-top-left-radius: 25px;
+           border-top-right-radius: 25px;
+}
+
+.drop{
+    text-decoration: none;
+    font-size: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 15px;
+    color: whitesmoke;
+    font-style: oblique;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 150px;
+    text-align: center;
+    border: 2px solid transparent;
+}
+
+.drop:hover{
+    /* border: 2px solid maroon; */
+         font-weight: 900;
+        border-top-left-radius: 25px;
+           border-top-right-radius: 25px;
+}
